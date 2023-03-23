@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec668076-5d39-4121-8024-d56f0a496623" name="Default Changelist" comment="" />
+    <list default="true" id="ec668076-5d39-4121-8024-d56f0a496623" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,10 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -38,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Miz5gVceyXFZgnW5wrWMlWrIlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -196,7 +203,8 @@
       <workItem from="1679360849702" duration="3556000" />
       <workItem from="1679451862188" duration="357000" />
       <workItem from="1679452234086" duration="5000" />
-      <workItem from="1679566814004" duration="76000" />
+      <workItem from="1679566814004" duration="419000" />
+      <workItem from="1679567251998" duration="1013000" />
     </task>
     <servers />
   </component>
@@ -308,10 +316,14 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="93" y="93" width="1521" height="833" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1678882029211" />
-    <state x="462" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1679452234608">
+    <state x="462" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1679567252637">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="462" y="513" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1679452234608" />
+    <state x="462" y="513" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1679567252637" />
+    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679568330882">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1019@0.0.1707.1019" timestamp="1679568330882" />
     <state x="596" y="142" key="refactoring.ChangeSignatureDialog" timestamp="1678694404348">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
