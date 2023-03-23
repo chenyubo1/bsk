@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec668076-5d39-4121-8024-d56f0a496623" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec668076-5d39-4121-8024-d56f0a496623" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -320,6 +319,10 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state width="1247" height="135" key="GridCell.Tab.3.right/0.0.1707.1019@0.0.1707.1019" timestamp="1679023767805" />
+    <state x="561" y="269" width="595" height="566" key="MultipleFileMergeDialog" timestamp="1679570355179">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="561" y="269" width="595" height="566" key="MultipleFileMergeDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1679570355179" />
     <state x="291" y="175" key="SettingsEditor" timestamp="1679566890305">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -336,14 +339,14 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="93" y="93" width="1521" height="833" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1678882029211" />
-    <state x="462" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1679567252637">
+    <state x="462" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1679570230773">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="462" y="513" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1679567252637" />
-    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679568330882">
+    <state x="462" y="513" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1679570230773" />
+    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679570237178">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1019@0.0.1707.1019" timestamp="1679568330882" />
+    <state x="652" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.1019@0.0.1707.1019" timestamp="1679570237178" />
     <state x="586" y="312" key="git4idea.merge.GitPullDialog" timestamp="1679568681582">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
